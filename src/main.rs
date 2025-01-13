@@ -1,3 +1,3 @@
 fn main() {
-    println!("nigga");
+    println!("This is niggachain!");
 }
